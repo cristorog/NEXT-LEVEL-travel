@@ -202,7 +202,6 @@ export default function Home() {
     <main>
       <header className="site-header">
         <a className="brand" href="#top" aria-label="NEXT LEVEL Travel — início">
-          <span className="brand-mark" aria-hidden="true">N</span>
           <span className="brand-copy">
             <strong>NEXT LEVEL</strong>
             <small>TRAVEL</small>
