@@ -2,15 +2,20 @@
 
 **Teu parceiro de viagem no Chile**
 
-Passeios privativos, transporte turístico e experiências personalizadas para conhecer Santiago e seus arredores com conforto, segurança e atendimento em português e espanhol.
+Passeios privativos e experiências personalizadas para conhecer Santiago e seus arredores com conforto, flexibilidade e atendimento em português e espanhol.
+
+## Site
+
+**[Conhecer a NEXT LEVEL Travel](https://next-level-travel.cristorog.chatgpt.site)**
 
 ## Experiências
 
 - Aeroporto e traslados privativos
-- City tours em Santiago
+- City tours e bairros históricos de Santiago
+- Templo Bahá’í e feira artesanal Los Dominicos
 - Neve: Farellones, El Colorado e Valle Nevado
-- Vinícolas e experiências enoturísticas
-- Valparaíso, Viña del Mar e Reñaca
+- Vinícolas: Concha y Toro, Santa Carolina, Undurraga e Cousiño Macul
+- Valparaíso, Viña del Mar, Reñaca e Algarrobo
 - Cajón del Maipo
 - Roteiros personalizados para famílias, casais e grupos
 
